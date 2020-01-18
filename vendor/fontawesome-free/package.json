@@ -32,8 +32,7 @@
     "url": "http://github.com/FortAwesome/Font-Awesome/issues"
   },
   "bundleDependencies": false,
-  "contributors": [
-    {
+  "contributors": [{
       "name": "Brian Talbot",
       "url": "http://twitter.com/talbs"
     },
